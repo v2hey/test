@@ -6,3 +6,4 @@ user2 test
 user1 test
 
 user1 test again
+user2 test again
