@@ -7,3 +7,6 @@ user1 test
 
 user1 test again and again
 user2 test again
+
+test fetch nothign conflicts
+
