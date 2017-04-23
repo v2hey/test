@@ -10,3 +10,4 @@ user2 test again
 
 test fetch nothign conflicts
 
+test the fetch
